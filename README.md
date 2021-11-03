@@ -22,10 +22,11 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;About me
 
-✔ Degree: Computer Science<br>
-✔ Master: Software Engineering<br>
+✔ **Degree**: Computer Science<br>
+✔ **Master**: Software Engineering<br>
 ✔ I’m currently learning about **Microservices System**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds<br><br><br><br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds<br>
+✔ <a href="https://profile-wine.vercel.app/">**My Portfolio** </a><br><br><br><br>
  
 
 ### 🛠 &nbsp;Tech Stack
