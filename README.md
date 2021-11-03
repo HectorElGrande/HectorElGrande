@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Héctor Muñoz Mérida a <b>software developer</b> graduate from <b>Polithecnic University of Madrid</b>, Madrid. <br><br><br>
+    Hello, I am Héctor Muñoz Mérida a <b>software developer</b> graduate from <b>Polytechnic University of Madrid</b>, Madrid. <br><br><br>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;About me
 
